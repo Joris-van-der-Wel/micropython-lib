@@ -1,1 +1,0 @@
-{"v":1,"hashes":[["aioble/__init__.mpy","d0688df6"],["aioble/core.mpy","3a54b0dd"],["aioble/device.mpy","e1f1acee"],["aioble/peripheral.mpy","385bed97"],["aioble/server.mpy","e85814fd"],["aioble/central.mpy","3a92afc4"],["aioble/client.mpy","5f93769e"],["aioble/l2cap.mpy","9690d2ba"],["aioble/security.mpy","ab155572"]],"version":"0.5.2"}
